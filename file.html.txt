@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 tyrtyretrrtf
+=======
+tyrtyretrrt
+>>>>>>> Stashed changes
